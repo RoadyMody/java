@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/background3">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+<!--        <ImageButton-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:background="@drawable/play_big"-->
+<!--            android:onClick="startGame" />-->
+
+<!--        <Button-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:paddingLeft="16dp"-->
+<!--            android:paddingRight="16dp"-->
+<!--            android:background="RED"/>-->
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="275dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#02FFFF"
+        android:onClick="startGame"
+
+        android:text="Start Game" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="282dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#00FFFF"
+        android:text="High Scores" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="287dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#00FFFF"
+        android:text="Credit" />
+    <!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        android:text="Play"-->
+<!--        android:textColor="#330022"-->
+<!--        android:textSize="20sp"-->
+<!--        android:onClick="startGame" />-->
+
+</LinearLayout>

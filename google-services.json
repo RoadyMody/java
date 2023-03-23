@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "337456696325",
+    "project_id": "java-d2329",
+    "storage_bucket": "java-d2329.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337456696325:android:7d74314b1b600feee9606c",
+        "android_client_info": {
+          "package_name": "com.sandipbhattacharya.spaceshooter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337456696325-lkhphvl63u5lag4mmoeb9i57h73q4mrj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sandipbhattacharya.spaceshooter",
+            "certificate_hash": "217e887c243e7dd4de47e7e33b8df2125c90205e"
+          }
+        },
+        {
+          "client_id": "337456696325-ev69vtke45q8lsjqq38kl59saburrm6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvi-KjglSRrQZUZALpJYWv6dBBYMkgQcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337456696325-ev69vtke45q8lsjqq38kl59saburrm6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
